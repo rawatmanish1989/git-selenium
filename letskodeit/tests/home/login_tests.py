@@ -1,5 +1,5 @@
 import sys
-sys.path.append("C:\\Users\\Manish Rawat\\python-workspace\\letskodeit")
+sys.path.append("C:\\Users\\Manish Rawat\\git\\repository\\letskodeit")
 
 from selenium import webdriver
 from pages.home.login_page import LoginPage
