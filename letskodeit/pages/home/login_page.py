@@ -1,3 +1,5 @@
+from selenium.webdriver.common.by import By
+
 class LoginPage():
     
     def __init__(self, driver):
@@ -10,16 +12,16 @@ class LoginPage():
     _login_button = "commit"
     
     def getLoginLink(self):
-        return self.driver.find_element_by_link_text(self._login_link)
+        return self.driver.find_element(By.LINK_TEXT, self._login_link)
     
     def getEmailField(self):
-        return self.driver.find_element_by_id(self._email_field)
+        return self.driver.find_element(By.ID, self._email_field)
     
     def getPasswordField(self):
-        return self.driver.find_element_by_id(self._password_field)
+        return self.driver.find_element(By.ID, self._password_field)
     
     def getLoginButton(self):
-        return self.driver.find_element_by_name(self._login_button)
+        return self.driver.find_element(By.NAME, self._login_button)
     
     #actions performed by the above returned objects
     def clickLoginLink(self):
