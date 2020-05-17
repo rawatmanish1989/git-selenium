@@ -13,7 +13,7 @@ class LoginTests(unittest.TestCase):
         baseURL = "https://learn.letskodeit.com/"
         driver = webdriver.Ie()
         driver.maximize_window()
-        driver.implicitly_wait(5)
+        driver.implicitly_wait(10)
         driver.get(baseURL)
         
         lp = LoginPage(driver)

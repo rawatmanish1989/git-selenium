@@ -15,7 +15,7 @@ class LoginPage(SeleniumDriver):
     
     def getLoginLink(self):
         return self.driver.find_element(By.LINK_TEXT, self._login_link)
-    
+        
     def getEmailField(self):
         return self.driver.find_element(By.ID, self._email_field)
     
@@ -28,7 +28,7 @@ class LoginPage(SeleniumDriver):
     #actions performed by the above returned objects
     def clickLoginLink(self):
         self.getLoginLink().click()
-    
+        
     def enterEmail(self, email):
         self.getEmailField().send_keys(email)
     
@@ -43,3 +43,5 @@ class LoginPage(SeleniumDriver):
         self.enterEmail(email)
         self.enterPassword(password)
         self.clickLoginButton()
+        
+        
