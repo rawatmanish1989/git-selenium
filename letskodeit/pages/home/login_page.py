@@ -13,8 +13,8 @@ class LoginPage(SeleniumDriver):
     _password_field = "user_password"
     _login_button = "commit"
     
-    def getLoginLink(self):
-        return self.driver.find_element(By.LINK_TEXT, self._login_link)
+    #def getLoginLink(self):
+     #   return self.driver.find_element(By.LINK_TEXT, self._login_link)
         
     def getEmailField(self):
         return self.driver.find_element(By.ID, self._email_field)
@@ -27,7 +27,8 @@ class LoginPage(SeleniumDriver):
     
     #actions performed by the above returned objects
     def clickLoginLink(self):
-        self.getLoginLink().click()
+        #self.getLoginLink().click()
+        self.elementClick(self._login_link, "linktext")
         
     def enterEmail(self, email):
         self.getEmailField().send_keys(email)
