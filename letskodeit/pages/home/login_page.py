@@ -14,16 +14,16 @@ class LoginPage(SeleniumDriver):
     _login_button = "commit"
     
     #def getLoginLink(self):
-     #   return self.driver.find_element(By.LINK_TEXT, self._login_link)
+        #return self.driver.find_element(By.LINK_TEXT, self._login_link)
         
-    def getEmailField(self):
-        return self.driver.find_element(By.ID, self._email_field)
+    #def getEmailField(self):
+        #return self.driver.find_element(By.ID, self._email_field)
     
-    def getPasswordField(self):
-        return self.driver.find_element(By.ID, self._password_field)
+    #def getPasswordField(self):
+        #return self.driver.find_element(By.ID, self._password_field)
     
-    def getLoginButton(self):
-        return self.driver.find_element(By.NAME, self._login_button)
+    #def getLoginButton(self):
+        #return self.driver.find_element(By.NAME, self._login_button)
     
     #actions performed by the above returned objects
     def clickLoginLink(self):
@@ -31,13 +31,18 @@ class LoginPage(SeleniumDriver):
         self.elementClick(self._login_link, "linktext")
         
     def enterEmail(self, email):
-        self.getEmailField().send_keys(email)
-    
+        self.sendKeys(email, self._email_field)
+        
+        #self.getEmailField().send_keys(email)
+        
     def enterPassword(self, password):
-        self.getPasswordField().send_keys(password)
+        self.sendKeys(password, self._password_field)
+        #self.getPasswordField().send_keys(password)
     
     def clickLoginButton(self):
-        self.getLoginButton().click()
+        self.elementClick(self._login_button, "name")
+        #self.getLoginButton().click()
+        
         
     def login(self, email, password):
         self.clickLoginLink()
