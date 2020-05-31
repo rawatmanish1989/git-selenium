@@ -1,7 +1,12 @@
 from selenium.webdriver.common.by import By
 from base.selenium_driver import SeleniumDriver
+import logging
+import utilities.custom_logger as Cl
+
 
 class LoginPage(SeleniumDriver):
+    
+    log = Cl.customLogger(logging.DEBUG)
     
     def __init__(self, driver):
         super().__init__(driver)
@@ -13,41 +18,38 @@ class LoginPage(SeleniumDriver):
     _password_field = "user_password"
     _login_button = "commit"
     
-    #def getLoginLink(self):
-        #return self.driver.find_element(By.LINK_TEXT, self._login_link)
-        
-    #def getEmailField(self):
-        #return self.driver.find_element(By.ID, self._email_field)
-    
-    #def getPasswordField(self):
-        #return self.driver.find_element(By.ID, self._password_field)
-    
-    #def getLoginButton(self):
-        #return self.driver.find_element(By.NAME, self._login_button)
-    
-    #actions performed by the above returned objects
     def clickLoginLink(self):
-        #self.getLoginLink().click()
         self.elementClick(self._login_link, "linktext")
         
     def enterEmail(self, email):
         self.sendKeys(email, self._email_field)
         
-        #self.getEmailField().send_keys(email)
-        
     def enterPassword(self, password):
         self.sendKeys(password, self._password_field)
-        #self.getPasswordField().send_keys(password)
-    
+        
     def clickLoginButton(self):
         self.elementClick(self._login_button, "name")
-        #self.getLoginButton().click()
+    
+    def clearFields(self):
+        emailField = self.getElement(self._email_field)
+        emailField.clear()
+        passwordField = self.getElement(self._password_field)
+        passwordField.clear()
         
-        
-    def login(self, email, password):
+    def login(self, email="", password=""):
         self.clickLoginLink()
+        self.clearFields()
         self.enterEmail(email)
         self.enterPassword(password)
         self.clickLoginButton()
+    
+    
+    def verifyLoginSuccessful(self):
+        result = self.isElementPresent("//div[@id='navbar']//span[text()='Test']", locatorType="xpath")
+        return result
+    
+    def verifyLoginFailed(self):
+        result = self.isElementPresent("//div[contains(text(), 'Invalid email or password')]", locatorType="xpath")
+        return result
         
         
