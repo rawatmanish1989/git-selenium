@@ -5,6 +5,6 @@ git config --global user.email letskodeit@gmail.com
 git config user.name "Let's Kode It"
 git config user.email letskodeit@gmail
 git add <fileName>
-git commit -m ""
+git commit -m "" --> Provide the comments inside the double quotes for commitment
 git log
 Git diff <fileName>
