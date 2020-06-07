@@ -1,0 +1,380 @@
+1591387682694	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\rust_mozprofileNHeiDR"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1591387688689	Marionette	INFO	Listening on port 51392
+1591387690371	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591387712455	Marionette	INFO	Stopped listening on port 51392
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1591387941091	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\rust_mozprofile5MhS6h"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1591387946159	Marionette	INFO	Listening on port 51490
+1591387947380	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591387974195	Marionette	INFO	Stopped listening on port 51490
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1591405797910	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\rust_mozprofilezN9SFV"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1591405803550	Marionette	INFO	Listening on port 52045
+1591405803742	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://fast.wistia.com/assets/external/E-v1.js, line 1: uncaught exception: error
+JavaScript error: https://fast.wistia.com/assets/external/E-v1.js, line 1: uncaught exception: error
+JavaScript error: , line 0: uncaught exception: error
+1591405833979	Marionette	INFO	Stopped listening on port 52045
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x6A0029,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1591406231557	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\rust_mozprofilen45rXK"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1591406236730	Marionette	INFO	Listening on port 52149
+1591406236806	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://fast.wistia.com/assets/external/E-v1.js, line 1: uncaught exception: error
+JavaScript error: https://fast.wistia.com/assets/external/E-v1.js, line 1: uncaught exception: error
+JavaScript error: , line 0: uncaught exception: error
+1591406316665	Marionette	INFO	Stopped listening on port 52149
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1591406357922	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\rust_mozprofileBoCUWw"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1591406362832	Marionette	INFO	Listening on port 52265
+1591406363961	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://fast.wistia.com/assets/external/E-v1.js, line 1: uncaught exception: error
+JavaScript error: , line 0: uncaught exception: error
+1591406451035	Marionette	INFO	Stopped listening on port 52265
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1591408599184	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\rust_mozprofileUe25yR"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1591408604429	Marionette	INFO	Listening on port 52444
+1591408605804	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://fast.wistia.com/assets/external/E-v1.js, line 1: uncaught exception: error
+JavaScript error: https://fast.wistia.com/assets/external/E-v1.js, line 1: uncaught exception: error
+JavaScript error: , line 0: uncaught exception: error
+1591408719041	Marionette	INFO	Stopped listening on port 52444
+[Child 6412, Chrome_ChildThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 522
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1591408769198	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\rust_mozprofiletdCnmC"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1591408774373	Marionette	INFO	Listening on port 52565
+1591408774444	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://js.stripe.com/v3/fingerprinted/js/controller-1b66ae98d52068f39fa8868ccae42275.js, line 1: ReferenceError: webpackJsonp is not defined
+JavaScript error: https://fast.wistia.com/assets/external/E-v1.js, line 1: uncaught exception: error
+JavaScript error: https://fast.wistia.com/assets/external/E-v1.js, line 1: uncaught exception: error
+JavaScript error: , line 0: uncaught exception: error
+1591408831333	Marionette	INFO	Stopped listening on port 52565
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1591409209398	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\rust_mozprofilehSc2VB"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1591409214429	Marionette	INFO	Listening on port 52681
+1591409214632	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://fast.wistia.com/assets/external/E-v1.js, line 1: uncaught exception: error
+JavaScript error: https://fast.wistia.com/assets/external/E-v1.js, line 1: uncaught exception: error
+JavaScript error: , line 0: uncaught exception: error
+1591409267047	Marionette	INFO	Stopped listening on port 52681
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1591409494054	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\rust_mozprofilerHz05Z"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1591409499161	Marionette	INFO	Listening on port 52797
+1591409499299	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://fast.wistia.com/assets/external/E-v1.js, line 1: uncaught exception: error
+JavaScript error: https://fast.wistia.com/assets/external/E-v1.js, line 1: uncaught exception: error
+JavaScript error: , line 0: uncaught exception: error
+1591409547634	Marionette	INFO	Stopped listening on port 52797
+JavaScript error: resource://gre/modules/UpdateTimerManager.jsm, line 352: TypeError: setting getter-only property "gLogEnabled"
+JavaScript error: resource://gre/modules/ModulesPing.jsm, line 70: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "setting getter-only property "gLogEnabled"" {file: "resource://gre/modules/UpdateTimerManager.jsm" line: 352}]'[JavaScript Error: "setting getter-only property "gLogEnabled"" {file: "resource://gre/modules/UpdateTimerManager.jsm" line: 352}]' when calling method: [nsIUpdateTimerManager::registerTimer]
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1591410572355	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\rust_mozprofile3dXJvf"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1591410577346	Marionette	INFO	Listening on port 52916
+1591410577593	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://fast.wistia.com/assets/external/E-v1.js, line 1: uncaught exception: error
+JavaScript error: https://fast.wistia.com/assets/external/E-v1.js, line 1: uncaught exception: error
+JavaScript error: , line 0: uncaught exception: error
+1591410683430	Marionette	INFO	Stopped listening on port 52916
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1591413179131	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\rust_mozprofile5NUtA1"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1591413184275	Marionette	INFO	Listening on port 53086
+1591413184428	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://js.stripe.com/v3/fingerprinted/js/controller-0ac88614f6b818b58aa743cf10bed057.js, line 1: ReferenceError: webpackJsonp is not defined
+JavaScript error: https://fast.wistia.com/assets/external/E-v1.js, line 1: uncaught exception: error
+JavaScript error: https://fast.wistia.com/assets/external/E-v1.js, line 1: uncaught exception: error
+JavaScript error: , line 0: uncaught exception: error
+1591413249690	Marionette	INFO	Stopped listening on port 53086
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1591413338267	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\rust_mozprofileKuNCo9"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1591413343307	Marionette	INFO	Listening on port 53201
+1591413343508	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://js.stripe.com/v3/fingerprinted/js/controller-0ac88614f6b818b58aa743cf10bed057.js, line 1: ReferenceError: webpackJsonp is not defined
+JavaScript error: https://fast.wistia.com/assets/external/E-v1.js, line 1: uncaught exception: error
+JavaScript error: https://fast.wistia.com/assets/external/E-v1.js, line 1: uncaught exception: error
+JavaScript error: , line 0: uncaught exception: error
+1591413422770	Marionette	INFO	Stopped listening on port 53201
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1591413518253	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\rust_mozprofilenQmBTN"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1591413523312	Marionette	INFO	Listening on port 53320
+1591413523559	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: error
+JavaScript error: https://fast.wistia.com/assets/external/E-v1.js, line 1: uncaught exception: error
+JavaScript error: https://fast.wistia.com/assets/external/E-v1.js, line 1: uncaught exception: error
+1591413622831	Marionette	INFO	Stopped listening on port 53320
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1591414924666	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\rust_mozprofileDNOg2p"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1591414929738	Marionette	INFO	Listening on port 53458
+1591414930698	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://fast.wistia.com/assets/external/E-v1.js, line 1: uncaught exception: error
+JavaScript error: , line 0: uncaught exception: error
+1591415013729	Marionette	INFO	Stopped listening on port 53458
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1591415350033	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\rust_mozprofilemo42hx"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1591415355185	Marionette	INFO	Listening on port 53593
+1591415355292	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://fast.wistia.com/assets/external/E-v1.js, line 1: uncaught exception: error
+JavaScript error: https://fast.wistia.com/assets/external/E-v1.js, line 1: uncaught exception: error
+JavaScript error: , line 0: uncaught exception: error
+1591415475248	Marionette	INFO	Stopped listening on port 53593
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1591415869069	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\rust_mozprofileETB1LN"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1591415874340	Marionette	INFO	Listening on port 53726
+1591415875526	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://fast.wistia.com/assets/external/E-v1.js, line 1: uncaught exception: error
+JavaScript error: https://fast.wistia.com/assets/external/E-v1.js, line 1: uncaught exception: error
+JavaScript error: , line 0: uncaught exception: error
+1591415952994	Marionette	INFO	Stopped listening on port 53726
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1591417019822	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\rust_mozprofileB1c8oq"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1591417024974	Marionette	INFO	Listening on port 53912
+1591417025065	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://fast.wistia.com/assets/external/E-v1.js, line 1: uncaught exception: error
+JavaScript error: https://fast.wistia.com/assets/external/E-v1.js, line 1: uncaught exception: error
+JavaScript error: , line 0: uncaught exception: error
+1591417107947	Marionette	INFO	Stopped listening on port 53912
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1591417619878	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\rust_mozprofileSojpSq"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1591417625052	Marionette	INFO	Listening on port 54029
+1591417625128	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://fast.wistia.com/assets/external/E-v1.js, line 1: uncaught exception: error
+JavaScript error: , line 0: uncaught exception: error
+JavaScript error: https://fast.wistia.com/assets/external/E-v1.js, line 1: uncaught exception: error
+1591417732869	Marionette	INFO	Stopped listening on port 54029
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1591417764181	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\rust_mozprofile9l0pfv"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1591417769264	Marionette	INFO	Listening on port 54141
+1591417769454	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://fast.wistia.com/assets/external/E-v1.js, line 1: uncaught exception: error
+JavaScript error: , line 0: uncaught exception: error
+JavaScript error: https://fast.wistia.com/assets/external/E-v1.js, line 1: uncaught exception: error
+1591417859261	Marionette	INFO	Stopped listening on port 54141
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1591420439862	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\rust_mozprofilejP6qJq"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1591420444873	Marionette	INFO	Listening on port 54284
+1591420445890	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 16500, Chrome_ChildThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 522
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+1591420495065	Marionette	INFO	Stopped listening on port 54284
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1591421971775	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\rust_mozprofileYyfi66"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1591421977162	Marionette	INFO	Listening on port 54425
+1591421977562	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://fast.wistia.com/assets/external/E-v1.js, line 1: uncaught exception: error
+JavaScript error: https://fast.wistia.com/assets/external/E-v1.js, line 1: uncaught exception: error
+JavaScript error: , line 0: uncaught exception: error
+1591422056551	Marionette	INFO	Stopped listening on port 54425
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1591422473988	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\rust_mozprofilercQ1kB"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1591422479417	Marionette	INFO	Listening on port 54530
+1591422480563	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: error
+JavaScript error: https://fast.wistia.com/assets/external/E-v1.js, line 1: uncaught exception: error
+JavaScript error: https://fast.wistia.com/assets/external/E-v1.js, line 1: uncaught exception: error
+1591422578981	Marionette	INFO	Stopped listening on port 54530
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1591423535681	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\rust_mozprofileq1Sw2e"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1591423542244	Marionette	INFO	Listening on port 54895
+1591423542290	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://fast.wistia.com/assets/external/E-v1.js, line 1: uncaught exception: error
+JavaScript error: https://fast.wistia.com/assets/external/E-v1.js, line 1: uncaught exception: error
+JavaScript error: , line 0: uncaught exception: error
+1591423625670	Marionette	INFO	Stopped listening on port 54895
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1591427106628	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\rust_mozprofileNN4BCu"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1591427112773	Marionette	INFO	Listening on port 55121
+1591427112871	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://fast.wistia.com/assets/external/E-v1.js, line 1: uncaught exception: error
+JavaScript error: https://fast.wistia.com/assets/external/E-v1.js, line 1: uncaught exception: error
+JavaScript error: , line 0: uncaught exception: error
+1591427173300	Marionette	INFO	Stopped listening on port 55121
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1591428035877	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\rust_mozprofileaeTCEQ"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1591428041840	Marionette	INFO	Listening on port 55240
+1591428043159	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://fast.wistia.com/assets/external/E-v1.js, line 1: uncaught exception: error
+JavaScript error: https://fast.wistia.com/assets/external/E-v1.js, line 1: uncaught exception: error
+JavaScript error: , line 0: uncaught exception: error
+1591428123932	Marionette	INFO	Stopped listening on port 55240
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1591428977916	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\rust_mozprofile19gxRW"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1591428983585	Marionette	INFO	Listening on port 55385
+1591428983673	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://js.stripe.com/v3/fingerprinted/js/controller-0ac88614f6b818b58aa743cf10bed057.js, line 1: ReferenceError: webpackJsonp is not defined
+JavaScript error: https://fast.wistia.com/assets/external/E-v1.js, line 1: uncaught exception: error
+JavaScript error: https://fast.wistia.com/assets/external/E-v1.js, line 1: uncaught exception: error
+JavaScript error: , line 0: uncaught exception: error
+1591429014599	Marionette	INFO	Stopped listening on port 55385
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1591429085715	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\rust_mozprofileOyOtBM"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1591429091406	Marionette	INFO	Listening on port 55503
+1591429091486	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://fast.wistia.com/assets/external/E-v1.js, line 1: uncaught exception: error
+JavaScript error: , line 0: uncaught exception: error
+JavaScript error: https://fast.wistia.com/assets/external/E-v1.js, line 1: uncaught exception: error
+1591429130494	Marionette	INFO	Stopped listening on port 55503
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
