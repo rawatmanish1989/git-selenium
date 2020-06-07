@@ -1,5 +1,5 @@
-git status
-git init
+git status --> To know the status of repository
+git init --> To initialize the repository
 git config --global user.name "Let's Kode It"
 git config --global user.email letskodeit@gmail.com
 git config user.name "Let's Kode It"
