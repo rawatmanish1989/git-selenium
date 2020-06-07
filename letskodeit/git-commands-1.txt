@@ -8,3 +8,4 @@ git add <fileName>
 git commit -m "" --> Provide the comments inside the double quotes for commitment
 git log
 Git diff <fileName>
+git clone https://github.com/rawatmanish1989/git-selenium.git
